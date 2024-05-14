@@ -1,6 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-NAME:N.NAVYA SREE    
-REG NO:212223040138
+NAME:MOHAN KUMAR P
+REG NO:212222220026
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
